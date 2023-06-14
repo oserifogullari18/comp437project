@@ -1,5 +1,5 @@
 # Workout App
-### Comp 437 term project by Özlem Şerifoğulları
+#### Comp 437 term project by Özlem Şerifoğulları
 ## Project Description
 Include a brief description.
 ## Challenges
